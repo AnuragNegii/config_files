@@ -10,6 +10,7 @@ vim.o.cmdheight = 0
 vim.o.undofile = true
 vim.g.mapleader = " "
 vim.opt.clipboard = "unnamedplus"
+vim.opt.scrolloff = 12
 
 vim.opt.termguicolors = true
 
